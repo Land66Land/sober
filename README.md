@@ -69,11 +69,11 @@
 <div id="View" align="center">
   <h3> 📌 Home 화면 </h3>
   <h4>js의 Swiper 라이브러리를 사용한 스와이퍼 처리</h4>
-  ![join](https://github.com/Land66Land/sober/assets/130443015/1e934c3a-b7bb-4022-960c-7aa24b478b50)
-
+  ![join](https://github.com/Land66Land/sober/assets/130443015/1e934c3a-b7bb-4022-960c-7aa24b478b50)<br>
+![join](https://github.com/Land66Land/sober/blob/master/assets/130443015/1e934c3a-b7bb-4022-960c-7aa24b478b50.png)<br>
   <h3> 📌 회원가입 페이지 </h3>
-  !(https://github.com/Land66Land/sober/assets/130443015/e4dc87bb-96cd-432c-a796-40dd385efb33)
-![마이페이지](https://github.com/Land66Land/sober/assets/130443015/a5e67690-a17f-484e-bb86-cba10acbcf31)
+  !(https://github.com/Land66Land/sober/assets/130443015/e4dc87bb-96cd-432c-a796-40dd385efb33.gif)
+![마이페이지](https://github.com/Land66Land/sober/assets/130443015/a5e67690-a17f-484e-bb86-cba10acbcf31.gif)
 ![mypage](https://github.com/Land66Land/sober/assets/130443015/94111a43-d3cb-4e10-809c-3f2c488cd3bb)
 
   <h3> 📌 로그인 페이지 </h3>
