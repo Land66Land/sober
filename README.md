@@ -68,5 +68,10 @@
 <h2>5. 페이지 구성</h2>
 <div id="View" align="center">
 
+<h3> 📌 칵테일 레시피 공유 게시판</h3>
+![ezgif com-video-to-gif](https://github.com/Land66Land/sober/assets/130443015/d785587f-540e-4eb8-b676-6b08282ef02c)
+
+
+
 </div>
 
