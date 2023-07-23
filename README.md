@@ -74,6 +74,7 @@
   
   <h3> ✒️ 회원가입 페이지 </h3>
   <h5>: Spring Security를 사용한 사용자 비밀번호 암호화</h5>
+![join](https://github.com/Land66Land/sober/assets/130443015/d7921795-11aa-4669-b3f5-56d5332a9544)
 
  <br><br>
 
