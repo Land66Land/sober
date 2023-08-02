@@ -57,9 +57,10 @@
 <h2>4. ERD 및 작업흐름도</h2>
 <div id="Erd">
 <h3> 📋 ERD 구조</h3>
-<img src="https://i.imgur.com/S9H9vGQ.jpg" >
-<h3> 📋 작업흐름도</h3>
-<img src="https://i.imgur.com/A8XJPGn.jpg">  
+ <img width="100%" alt="erd" src="https://github.com/Land66Land/sober/assets/130443015/b6cf1cea-0afc-4cc2-82f0-b02424218aab">
+ 
+<h3> 📋 작업흐름도</h3>  
+<img width="100%" alt="작업흐름도" src="https://github.com/Land66Land/sober/assets/130443015/456cddd2-116f-4180-9b1f-6a7334cda6ac">
 </div>
 
 
